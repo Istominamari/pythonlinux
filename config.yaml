@@ -1,0 +1,12 @@
+folder_in: "/home/user2/folder_in/"
+folder_out: "/home/user2/folder_out/"
+folder_ext: "/home/user2/folder_ext/"
+count: 5
+bs: 1
+type: zip
+host: 0.0.0.0
+port: 22
+user: user2
+passwd: "1111"
+pkgname: p7zip-full
+log_folder: "./logs"
